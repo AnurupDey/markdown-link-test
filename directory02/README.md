@@ -2,4 +2,4 @@
 
 The following is a link to another file in the same repository.
 
-[Link](../directory01/README.md)
+[Link](directory01/README.md)

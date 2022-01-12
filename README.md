@@ -30,7 +30,7 @@ This is a relative link, as is evident.
 ## Hypothesis
 
 When pushed to Github, Github should translate this relative link into a full
-link `https://github.com/AnurupDey/markdown-link-test/blob/main/directory01/README.md`.
+link `https://github.com/AnurupDey/markdown-link-test/blob/main/directory01`.
 
 ## Result
 

@@ -22,7 +22,7 @@ This repository contains the following structure:
 
 `directory02/README.md` contains a link to `directory01/README.md`.
 ```
-[Link](../directory01/README.md)
+[Link](./directory01/README.md)
 ```
 
 This is a relative link, as is evident.
